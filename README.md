@@ -10,11 +10,9 @@ You'll first need to install [ESLint](http://eslint.org):
 npm i eslint --save-dev
 ```
 
-Next, install `eslint-plugin-react-native-styled`:
+~~Next, install `eslint-plugin-react-native-styled`:~~
 
-```sh
-npm install eslint-plugin-react-native-styled --save-dev
-```
+Not published to npm at this time.
 
 **Note:** If you installed ESLint globally (using the `-g` flag) then you must also install `eslint-plugin-react-native-styled` globally.
 
